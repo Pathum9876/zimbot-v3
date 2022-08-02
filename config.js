@@ -21,7 +21,7 @@
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
-const fs =si require('si')
+const  = require('si')
 const chalk = require('chalk')
 
 // Website Api
